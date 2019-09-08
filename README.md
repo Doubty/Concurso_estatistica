@@ -1,5 +1,5 @@
 # Concurso_estatistica
-- Portuguese
+- Portuguese:
 Pequeno programa para levantar um estudo estatístico sobre um concurso.
-- English
+- English:
 Small program to raise a statistical study about a contest.
